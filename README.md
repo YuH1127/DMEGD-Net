@@ -9,7 +9,7 @@
 ---
 
 ## 📊 Visualize the results
-![Visualize the results](images/thin.jpg)![Visualize the results](images/moderate.jpg)![Visualize the results](images/thick.jpg)![Visualize the results](images/rain.jpg)![Visualize the results](images/blur.jpg)
+![Visualize the results](images/SateHaze1k_thin.jpg)![Visualize the results](images/SateHaze1k_thick.jpg)![Visualize the results](images/HRSD_DHID.jpg)![Visualize the results](images/RRSHID_moderate.jpg)![Visualize the results](images/RRSHID_thick.jpg)
 
 ---
 
