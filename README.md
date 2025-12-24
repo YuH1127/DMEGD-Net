@@ -9,7 +9,11 @@
 ---
 
 ## 📊 Visualize the results
-![Visualize the results](images/SateHaze1k_thin.jpg)![Visualize the results](images/SateHaze1k_thick.jpg)![Visualize the results](images/HRSD_DHID.jpg)![Visualize the results](images/RRSHID_moderate.jpg)![Visualize the results](images/RRSHID_thick.jpg)
+![Visualize the results](images/SateHaze1k_Thin.jpg)
+![Visualize the results](images/SateHaze1k_Thick.jpg)
+![Visualize the results](images/HRSD_DHID.jpg)
+![Visualize the results](images/RRSHID_Moderate.jpg)
+![Visualize the results](images/RRSHID_Thick.jpg)
 
 ---
 
@@ -21,11 +25,11 @@ We train and test the code on **PyTorch 1.13.0 + CUDA 11.7**. The detailed confi
 
 Here are the download links for the model checkpoint:
 - 🔹 **SateHaze1k**  
-[📥 Download](https://pan.baidu.com/s/1qBtbIWmPinu99wgmvL6lTA?pwd=2ef2)
+[📥 Download](https://pan.baidu.com/s/1e-yJQHRp9cNLA3RY-dbVSg?pwd=ww3w)
 - 🔹 **HRSD**  
-[📥 Download](https://pan.baidu.com/s/1qBtbIWmPinu99wgmvL6lTA?pwd=2ef2)
+[📥 Download](https://pan.baidu.com/s/1fS1ggiEV8aYNP_2wSd6BOg?pwd=xks8)
 - 🔹 **RRSHID**  
-[📥 Download](https://pan.baidu.com/s/1qBtbIWmPinu99wgmvL6lTA?pwd=2ef2)
+[📥 Download](https://pan.baidu.com/s/1Vo1Y-D8iSYuCtfGCoRiUGw?pwd=ewqw)
 
 ---
 
